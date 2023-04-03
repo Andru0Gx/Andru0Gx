@@ -33,7 +33,3 @@
 <div align= "center">
     <img src="https://th.bing.com/th/id/R.26ee321a98833d8070e8042527359de1?rik=fBOzIFgQpIxJ2Q&pid=ImgRaw&r=0" width = 500 alt="Dont Know" title="Where Is My Social Media!"/>
 </div>
-
-## 📈 Wakatime Stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andy0Gx)](https://github.com/anuraghazra/github-readme-stats)
