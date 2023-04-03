@@ -1,6 +1,6 @@
 
 <div id="Logo" align="center ">
-    <img src="https://avatars.githubusercontent.com/u/95187524?v=4" alt="Andy0Gx" title= "Andy0Gx" width="200" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU0YjBiNTlmN2EwNjk2ZGE5NGE3OWIyZWEzOGY5YWI4YmU3YmMwNSZjdD1n/zCTp6Ugjm71Y0rPVJT/giphy.gif" alt="Andy0Gx" title= "When Have We Ever Follow Orders?" width=400 height = 300 />
     <h1>👋 Just Andy 😜</h1>
 </div>
 
@@ -27,11 +27,11 @@
 ## 📊 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Andy0Gx&show_icons=true&theme=dark" alt="Andy0Gx" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Andy0Gx&show_icons=true&theme=dark" alt="Andy0Gx" title="Are u a Stalker?"/>
 </div>
 
 ## 📫 Social Media
 
 <div align= "center">
-    <img src="https://images.pexels.com/photos/16197675/pexels-photo-16197675.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="Wait For Instructions" width = 200 height= 150 title= "Wait For Instructions" />
+    <img src="https://th.bing.com/th/id/R.26ee321a98833d8070e8042527359de1?rik=fBOzIFgQpIxJ2Q&pid=ImgRaw&r=0" alt="Dont Know" title="Where Is My Social Media!"/>
 </div>
