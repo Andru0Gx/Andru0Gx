@@ -31,5 +31,5 @@
 ## 📫 Social Media
 
 <div align= "center">
-    <img src="https://th.bing.com/th/id/R.26ee321a98833d8070e8042527359de1?rik=fBOzIFgQpIxJ2Q&pid=ImgRaw&r=0" alt="Dont Know" title="Where Is My Social Media!"/>
+    <img src="https://th.bing.com/th/id/R.26ee321a98833d8070e8042527359de1?rik=fBOzIFgQpIxJ2Q&pid=ImgRaw&r=0" width = 500 alt="Dont Know" title="Where Is My Social Media!"/>
 </div>
