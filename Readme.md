@@ -1,6 +1,4 @@
-
-<div id="Logo" align="center ">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU0YjBiNTlmN2EwNjk2ZGE5NGE3OWIyZWEzOGY5YWI4YmU3YmMwNSZjdD1n/zCTp6Ugjm71Y0rPVJT/giphy.gif" alt="Andy0Gx" title= "When Have We Ever Follow Orders?" width=400 height = 300 />
+<div align= "center">
     <h1>👋 Just Andy 😜</h1>
 </div>
 
