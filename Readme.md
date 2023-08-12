@@ -1,5 +1,5 @@
 <div align= "center">
-    <h1>👋 Just Andy 😜</h1>
+    <h1>👋 Just Andru 😜</h1>
 </div>
 
 ---
@@ -25,11 +25,11 @@
 ## 📊 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Andy0Gx&show_icons=true&theme=dark" alt="Andy0Gx" title="Are u a Stalker?"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Andru0Gx&show_icons=true&theme=dark" alt="Andru0Gx" title="Are u a Stalker?"/>
 </div>
 
 ## 📫 Social Media
 
 <div align= "center">
-    <img src="https://th.bing.com/th/id/R.26ee321a98833d8070e8042527359de1?rik=fBOzIFgQpIxJ2Q&pid=ImgRaw&r=0" width = 500 alt="Dont Know" title="Where Is My Social Media!"/>
+    <img src="https://th.bing.com/th/id/R.26ee321a98833d8070e8042527359de1?rik=fBOzIFgQpIxJ2Q&pid=ImgRaw&r=0" width = 500 alt="Dont Know" title="Where Is My Social Media!?"/>
 </div>
