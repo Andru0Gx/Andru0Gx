@@ -7,7 +7,7 @@
 ## 📖 About Me
 ```md
 - 🎓 I'm autodidact, but also I'm studying systems engineering.
-- 🌱 I'm currently learning about Cybersecurity.
+- 🌱 I'm currently learning about Web Development.
 - 🎵 I like to listen to music while I'm coding.
 - 🎮 I like to play video games.
 - Ⓜ️arvel fan.
@@ -17,10 +17,12 @@
 ## 🦠Languages and Tools⚙️
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width = 50 title= "Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width = 50 title= "CSS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width = 50 title= "HTML" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width = 50 title= "CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="CSS" width = 50 title= "Typescript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width = 50 title= "JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="HTML" width = 50 title= "Astro" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width = 50 title= "Python"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width = 50 title= "C++"/>          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width = 50 title= "Linux" />
 </div>
